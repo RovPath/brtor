@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Editor files
+*.swp
+*~
+.vscode/
+.idea/
+
+# Runtime / user data (not part of the project)
+brtor_backups/
